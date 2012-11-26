@@ -1,0 +1,5 @@
+c:\users\nmp\documents\visual studio 2010\Projects\Numbers2Words\Numbers2Words\bin\Debug\Numbers2Words.exe
+c:\users\nmp\documents\visual studio 2010\Projects\Numbers2Words\Numbers2Words\bin\Debug\Numbers2Words.pdb
+c:\users\nmp\documents\visual studio 2010\Projects\Numbers2Words\Numbers2Words\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nmp\documents\visual studio 2010\Projects\Numbers2Words\Numbers2Words\obj\x86\Debug\Numbers2Words.exe
+c:\users\nmp\documents\visual studio 2010\Projects\Numbers2Words\Numbers2Words\obj\x86\Debug\Numbers2Words.pdb
