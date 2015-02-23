@@ -1,4 +1,3 @@
-C#
+Numbers to words - Bulgarian
 ==
-A program which is converting numbers to words spoken in bulgarian. 
-C#
+A program which converts numbers to words spoken in bulgarian. 
